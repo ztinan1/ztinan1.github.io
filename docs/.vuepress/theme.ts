@@ -159,16 +159,16 @@ export default hopeTheme({
     },
 
     // Algolia 全文搜索：需要自己设置爬虫并生成下方配置，如不会自己设置，启用下方本地搜索
-    docsearch: {
+   /*  docsearch: {
       indexName: "newzone",
       appId: "M4EXXEZIEG",
       apiKey: "fd8891a9c4cc21e0ef4f11bf44f7a11e",
-    },
+    }, */
     // 本地搜索，和上方二选一
-    /* searchPro: {
+    searchPro: {
       // 索引全部内容
       indexContent: true,
-    }, */
+    },
 
     feed: {
       rss: true,
