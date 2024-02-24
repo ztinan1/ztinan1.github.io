@@ -10,7 +10,7 @@ export default defineUserConfig({
   // 网站标题
   title: "嘲讽南北",
   // 网站描述
-  description: "允许一切发生",
+  description: "事无好坏，仅是存在。允许一切发生。",
 
   // 网站路径默认为主域名。如果网站部署在子路径下，比如 xxx.com/yyy，那么 base 应该被设置为 "/yyy/"
   base: "/",
@@ -30,7 +30,7 @@ export default defineUserConfig({
     // 谷歌分析
     googleAnalyticsPlugin({
       // 设置你的 Analytics ID
-      id: "G-RWKZTY2P9R",
+      id: "G-RGT4PL1WN4",
     }),
   ],
   bundler: webpackBundler({
