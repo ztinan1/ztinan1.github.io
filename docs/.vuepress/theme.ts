@@ -9,8 +9,8 @@ export default hopeTheme({
   iconAssets: "iconfont",
 
   author: {
-    name: "清顺",
-    url: "https://newzone.top",
+    name: "嘲讽南北",
+    url: "https://1patent.cn",
   },
 
   logo: "/logo.svg",
@@ -65,18 +65,18 @@ export default hopeTheme({
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-    name: "清顺",
+    name: "嘲讽南北",
     avatar: "/avatar_self.webp",
-    description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
+    description: "低容错率，精密、严谨、高效的逻辑闭环",
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
-      GitHub: "https://github.com/rockbenben",
-      Zhihu: "https://www.zhihu.com/people/qingwhat",
-      少数派: ["https://sspai.com/u/zqj05i4v/posts", "./docs/.vuepress/icons/sspai.svg"],
-      Wechat: "https://img.newzone.top/wechat.svg",
-      Email: "mailto:learndata@newzone.top",
-      Discord: "https://discord.gg/PZTQfJ4GjX",
+      GitHub: "https://github.com/rockbenben1",
+      Zhihu: https://www.zhihu.com/people/tang-mu-87-12-37?utm_source=article-pc-editor",
+      少数派: ["1https://sspai.com/u/zqj05i4v/posts", "./docs/.vuepress/icons/sspai.svg"],
+      Wechat: "https://w2991phbyb.feishu.cn/wiki/H3rbwnh2cixGXWksfAPc4DBgnki?from=from_copylink",
+      Email: "mailto:ztinan@foxmail.com",
+      Discord: "1https://discord.gg/PZTQfJ4GjX",
       RSS: "/rss.xml",
     },
   },
