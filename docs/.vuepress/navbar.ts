@@ -5,42 +5,6 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   { text: "博客", icon: "blog", link: "/blog" },
   {
-    text: "应用",
-    icon: "app",
-    prefix: "/",
-    children: [
-      "apps/Applist",
-      {
-        text: "常用扩展",
-        icon: "chrome",
-        link: "apps/Chrome",
-      },
-      {
-        text: "服务/专题",
-        icon: "any",
-        prefix: "",
-        children: [
-          {
-            text: "直播手册",
-            icon: "quote",
-            link: "apps/livestreaming/1_obs_basic",
-          },
-          {
-            text: "NAS 应用",
-            icon: "process",
-            link: "services/dockers-on-nas/",
-          },
-        ],
-      },
-    ],
-  },
-  {
-    text: "生活",
-    icon: "emmet",
-    prefix: "/family/",
-    children: ["Diet", "Shoppinglist", "Coupon", "baby/"],
-  },
-  {
     text: "工具",
     icon: "tool",
     children: [
