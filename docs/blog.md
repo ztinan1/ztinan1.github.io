@@ -6,7 +6,7 @@ icon: home
 title: 专利从业者
 #heroImage: /logo.svg
 heroText: 专利从业者
-tagline: 追求真正的自由
+tagline: 不知道要表达什么，但我有无数想说的。
 bgImage: https://img.newzone.top/home-bg-1.jpg
 heroFullScreen: false
 #projects:
