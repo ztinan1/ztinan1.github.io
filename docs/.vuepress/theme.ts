@@ -66,7 +66,7 @@ export default hopeTheme({
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
     name: "嘲讽南北",
-    avatar: "/avatar_self.webp",
+    avatar: "/avatar_self.png",
     description: "低容错率，精密、严谨、高效的逻辑闭环",
     intro: "/intro.html",
     roundAvatar: true,
