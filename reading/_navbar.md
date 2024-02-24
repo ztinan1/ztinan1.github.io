@@ -1,3 +1,3 @@
-- [🚀 LearnData](https://newzone.top/)
-- [📝 博客文章](https://newzone.top/blog.html)
+- [🚀 LearnData](https://www.1patent.cn/)
+- [📝 博客文章](https://www.1patent.cn/blog.html)
 - [🔨 工具收藏](https://nav.newzone.top/)
