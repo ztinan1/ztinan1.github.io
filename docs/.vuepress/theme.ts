@@ -72,7 +72,7 @@ export default hopeTheme({
     roundAvatar: true,
     medias: {
       GitHub: "https://github.com/rockbenben1",
-      Zhihu: https://www.zhihu.com/people/tang-mu-87-12-37?utm_source=article-pc-editor",
+      Zhihu: "https://www.zhihu.com/people/tang-mu-87-12-37?utm_source=article-pc-editor",
       少数派: ["1https://sspai.com/u/zqj05i4v/posts", "./docs/.vuepress/icons/sspai.svg"],
       Wechat: "https://w2991phbyb.feishu.cn/wiki/H3rbwnh2cixGXWksfAPc4DBgnki?from=from_copylink",
       Email: "mailto:ztinan@foxmail.com",
