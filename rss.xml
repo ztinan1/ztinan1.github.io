@@ -6,8 +6,8 @@
     <link>https://newzone.top/</link>
     <description>事无好坏，仅是存在。允许一切发生。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 09 Mar 2024 13:06:47 GMT</pubDate>
-    <lastBuildDate>Sat, 09 Mar 2024 13:06:47 GMT</lastBuildDate>
+    <pubDate>Sat, 09 Mar 2024 13:13:29 GMT</pubDate>
+    <lastBuildDate>Sat, 09 Mar 2024 13:13:29 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -30,7 +30,7 @@
 <p>我设置的每个番茄钟为30分钟，而在一个番茄钟内，不拿起手机的次数屈指可数。有时甚至10多分钟连续玩手机，就刷推特，刷即刻，看小说。</p>
 <p>慌了。于是最近想了个办法，初见成效。</p>
 <p>很简单，在工作中保持专注力的措施“番茄钟+控制信息的输入+输出”。</p>
-<figure><img src="https://ztinan1.github.io/docs/.vuepress/public/0221.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/docs/.vuepress/public/0221.png" alt="fig.1" tabindex="0" loading="lazy"><figcaption>fig.1</figcaption></figure>
 <h2>控制信息的输入</h2>
 <h3>（一）控制信息源</h3>
 <p>信息大爆炸的时代，信息的来源数不胜数，尤其以短视频、小红书图文为最。</p>
@@ -46,8 +46,8 @@
 <p>即使如长篇、深度的新闻报道平台，如虎嗅、36氪或有质量的微信公众号，其信息相对个人来说也是无穷无尽的，难以阻止多巴胺对于奖励（获取新信息）的期待。甚至看着长篇内容看不下去，还会不自觉的转到如上的短信息流平台。</p>
 <p>我采用的方式是，给大脑一个预期，“就这么多，你可及时行乐吧，别再期待新的信息了。”事实证明，自我欺骗的方式还是有点用的，至少有效给上瘾机制打个隔断。</p>
 <p>如上记载，控制信息源+有限的碎片化信息的方式就是“RSS”。RSS（Really Simple Syndication）是一种内容聚合的技术，它允许用户订阅来自不同网站的内容更新，如新闻、博客文章、播客等。</p>
-<p><img src="https://ztinan1.github.io/docs/.vuepress/public/0221-1.jpg" alt="" loading="lazy"><br>
-<img src="https://ztinan1.github.io/docs/.vuepress/public/0221-21.jpg" alt="" loading="lazy"></p>
+<p><img src="/docs/.vuepress/public/0221-1.jpg" alt="fig.2" loading="lazy"><br>
+<img src="/docs/.vuepress/public/0221-2-1.png" alt="fig.3" loading="lazy"></p>
 <p>再进一步展开举例，</p>
 <p>看上图长信息流文件夹中的各个信息源，基本上推送的是长篇文章。目的是慢慢培养阅读长篇\深度文章的能力和耐心，从而掌控注意力，慢慢培养起来专注力。</p>
 <p>当然，即使是图片上的信息数量，每次也是看不完的。只是关注最新的随便看看，从而满足多巴胺对获取感的渴求。</p>
@@ -70,7 +70,7 @@
 <p>我的注意力要放在能产生复利的内容上，</p>
 <p>我的专注力是持久的。</p>
 ]]></content:encoded>
-      <enclosure url="https://ztinan1.github.io/docs/.vuepress/public/0221.jpg" type="image/jpeg"/>
+      <enclosure url="https://newzone.top/docs/.vuepress/public/0221.png" type="image/png"/>
     </item>
     <item>
       <title>JsonTranslate 实用指南：怎样让你的项目说上 13 种语言？</title>
